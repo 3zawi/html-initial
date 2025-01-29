@@ -1,1 +1,17 @@
-list color: blue
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: paleturquoise;
+    font-size:hsl(from color h s l);
+    text-align: center;
+}
+h2 {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+li {
+    text-align: center;
+    color: pink;
+}
