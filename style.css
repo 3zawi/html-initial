@@ -1,17 +1,19 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(232, 218, 205);
 }
 h1 {
-    color: paleturquoise;
+    color: rgb(156, 153, 181);
     font-size:hsl(from color h s l);
     text-align: center;
 }
 h2 {
-    color: grey;
+    color: rgb(193, 63, 152);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 li {
-    text-align: center;
-    color: pink;
+    list-style-position: inside;
+    text-align: left;
+    text-indent: 30%;
+    color: rgb(215, 151, 162);
 }
